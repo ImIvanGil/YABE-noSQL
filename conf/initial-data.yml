@@ -1,0 +1,13 @@
+# Test data
+
+User(admin):
+    email:          admin@yabe.com
+    password:       secret
+    fullname:       admin
+    isAdmin:        true
+    
+User(luis):
+    email:          luis@yabe.com
+    password:       secret
+    fullname:       Luis Chávez    
+    
