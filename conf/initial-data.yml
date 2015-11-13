@@ -1,13 +1,13 @@
 # Test data
 
 User(admin):
-    email:          admin@yabe.com
+    email:          admin@yadmin.com
     password:       secret
     fullname:       admin
     isAdmin:        true
     
 User(luis):
-    email:          luis@yabe.com
+    email:          draw@draw.com
     password:       secret
-    fullname:       Luis Chávez    
+    fullname:       Desarrollo RApido de Apps Web    
     
